@@ -1,12 +1,9 @@
 {
-  "name": "modtemplate",
-  "displayName": "Template",
-  "author": "[#8738ff[]]Sonnicon[[]]",
-  "description": "Gradle jar Mindustry mod template",
-  "version": "0",
-  "main": "sonnicon.modtemplate.ModTemplate",
-  "minGameVersion": "105",
-  "dependencies": [],
-  "hidden": false,
+  "name": " java-16-fix",
+  "displayName": "Java 16 Fix",
+  "author": "QmelZ",
+  "version": 0.1,
+  "main": "qmelz.java16.Fix",
+  "minGameVersion": "126.2",
   "java": true
 }
